@@ -16,7 +16,7 @@
  *     @type string $photo    The banner background image URL.
  * }
  */
-function page_banner( $args = null ) {
+function pageBanner( $args = null ) {
 
 	$args = (array) $args;
 
